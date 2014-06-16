@@ -1,7 +1,7 @@
 xml2map
 ===
 
-by xdf
+support node >= 0.11
 
 ## Installment
 
