@@ -1,0 +1,26 @@
+{
+  "name": "xml2map",
+  "version": "0.0.1",
+  "description": "xml2map",
+  "bin": {
+    "xml2map": "./bin/xml2map"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xudafeng/xml2map.git"
+  },
+  "dependencies": {
+    "xml-writer": ">=1.0.4",
+    "sax": "=0.4.2"
+  },
+  "keywords": ["xml2map","xml","json","json2xml","xml2json"],
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "homepage": "https://github.com/xudafeng/xml2map",
+  "author": "xudafeng",
+  "email": "xudafeng[at]126.com",
+  "blog": "http://xdf.me",
+  "license": "MIT"
+}
