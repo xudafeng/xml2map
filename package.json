@@ -1,6 +1,6 @@
 {
   "name": "xml2map",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "xml2map",
   "bin": {
     "xml2map": "./bin/xml2map"
