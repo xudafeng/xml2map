@@ -1,5 +1,5 @@
 {
-  "name": "xml2map",
+  "name": "xml2map2",
   "version": "1.0.2",
   "description": "Highly performant xml parser",
   "files": [
@@ -8,16 +8,21 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/xudafeng/xml2map.git"
+    "url": "git://github.com/xudafeng/xml2map2.git"
   },
   "dependencies": {
     "xml-writer": ">=1.0.4",
     "sax": "=0.4.2"
   },
-  "keywords": ["xml2map", "xml", "json", "json2xml", "xml2json"],
+  "keywords": [
+    "xml2map2",
+    "xml",
+    "json",
+    "json2xml",
+    "xml2json"
+  ],
   "devDependencies": {
     "mocha": "*"
   },
-  "homepage": "https://github.com/xudafeng/xml2map",
   "license": "MIT"
 }
