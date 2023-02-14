@@ -1,4 +1,4 @@
-# xml2map2
+# xml2map
 
 ---
 
@@ -7,13 +7,13 @@ support io.js & node >= 0.11
 ## Installment
 
 ```bash
-$ npm i -g xml2map2
+$ npm i -g xml2map
 ```
 
 ## Quick Start
 
 ```bash
-$ xml2map2.tojson(xml)
+$ xml2map.tojson(xml)
 ```
 
 ## License

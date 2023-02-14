@@ -1,1 +1,1 @@
-module.exports = require('./lib/xml2map2');
+module.exports = require('./lib/xml2map');
