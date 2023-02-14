@@ -1,5 +1,5 @@
 {
-  "name": "xml2map2",
+  "name": "xml2map",
   "version": "1.0.2",
   "description": "Highly performant xml parser",
   "files": [
@@ -8,14 +8,14 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/xudafeng/xml2map2.git"
+    "url": "git://github.com/xudafeng/xml2map.git"
   },
   "dependencies": {
     "xml-writer": ">=1.0.4",
     "sax": "=0.4.2"
   },
   "keywords": [
-    "xml2map2",
+    "xml2map",
     "xml",
     "json",
     "json2xml",
